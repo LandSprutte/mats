@@ -1,0 +1,10 @@
+{
+  "name": "landsprutten-mats",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "keywords": [],
+  "author": "landsprutte",
+  "license": "ISC",
+  "workspaces": []
+}
